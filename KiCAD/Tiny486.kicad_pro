@@ -243,8 +243,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "486Parts"
+    ],
+    "pinned_symbol_libs": [
+      "486Parts"
+    ]
   },
   "meta": {
     "filename": "Tiny486.kicad_pro",
