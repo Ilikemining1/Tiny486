@@ -11,7 +11,7 @@ Component Selection
 
 | Function | Part Number | Description | Documentation |
 |----------|-------------|-------------|-----------|
-| SoC | SC410-100AC | AMD Élan 486SX SOC @ 100MHz | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/21028.pdf) and [Evaluation Board](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/21028.pdf) |
+| SoC | SC410-100AC | AMD Élan 486SX SOC @ 100MHz | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/21028.pdf), [Evaluation Board](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/29016.pdf), [Register Details](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/21032.pdf), and [User Manual](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/21030.pdf) |
 | VGA | F65545-B2 | Chips 65545 VGA Controller | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/f65545.pdf) |
 | Sound (Primary) | CS4236B-JQ | Crystal CS4236B Single Chip Audio | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/cs4236b.pdf) |
 | Sound (Secondary) | YMF262-M | Yamaha YMF262 OPL3 FM Synth | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/ymf262.pdf) |
