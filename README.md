@@ -15,3 +15,4 @@ Component Selection
 | VGA | F65545-B2 | Chips 65545 VGA Controller | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/f65545.pdf) |
 | Sound (Primary) | CS4236B-JQ | Crystal CS4236B Single Chip Audio | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/cs4236b.pdf) |
 | Sound (Secondary) | YMF262-M | Yamaha YMF262 OPL3 FM Synth | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/ymf262.pdf) |
+| DRAM | K4E641612B or MT4LC4M16R6 | 4M x 16 4K Refresh EDO DRAM | [Datasheet](https://raw.githubusercontent.com/Ilikemining1/Tiny486/main/Datasheets/K4E661612B.PDF) |
