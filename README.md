@@ -4,7 +4,12 @@ Tiny486:  An AMD Élan-based handheld 486.
 Description
 ---
 
-The goal of this project is to learn about PC architecture, and to successfully implement a 486-class PC using an AMD Élan System on a Chip.  This drastically reduces the number of required ICs for a basic PC implementation while still providing an understanding of PC architecture and peripherals.  The final product should be a handheld PC / SBC that is ideal for VGA DOS games, including a 640x480 LCD, Sound Blaster Pro 2.0 compatible sound and OPL3, 16MB of RAM, and CompactFlash-based storage with an external floppy connector.
+The goal of this project is to learn about PC architecture, and to successfully implement a 486-class PC using an AMD Élan System on a Chip.  This drastically reduces the number of required ICs for a basic PC implementation while still providing an understanding of PC architecture and peripherals.  The final product should be a handheld PC / SBC that is ideal for VGA DOS games, including a 640x480 LCD, Sound Blaster Pro 2.0 compatible sound and OPL3, 16MB of RAM, and CompactFlash-based storage with an external floppy connector.  
+
+Initial Prototype
+---
+
+The initial prototype of this project is designed to be simple, to get a feel for the project and how to use the Élan.  It will include the SoC, VESA Local Bus VGA, Sound, Serial, Parallel, and CF support.  No Super IO chip is being used for the prototype, and therefore there will be no floppy support.  Address decoding for port 80h LEDs and IDE will be done with a CPLD, and an ATTiny MCU will be used to convert PS/2 keyboard protocol into XT protocol for use with the internal keyboard controller on the SoC.
 
 Component Selection
 ---
